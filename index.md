@@ -2,11 +2,14 @@
 ## This is more header
 ### This is even more header  
 
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Python Programming Language Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ```python
 # This is a comment
 def foo():
     print("bar")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
